@@ -1,0 +1,238 @@
+body{
+    background-color: #333;
+    color:#fff;
+}
+navbar{
+    border-bottom: #333 3px solid;
+    opacity: 0.8;
+    
+}
+#home-section{
+    background:url(img/gambar2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+h2{
+  color:#fcfcfc;  
+}
+.p-4{
+    color: #fcfcfc;
+}
+.card-body{
+    background: #00acac;
+    
+}
+#about-head-section {
+    background: #ffffff;
+    color: #0a0808;
+    
+}
+.dark-overlay{
+    background-color: rgba(0 , 0, 0, 0.7);
+    width: 100%;
+  
+}
+
+h4 {
+    text-align: center;
+}
+
+
+.card-form {
+    margin-top: 20px;
+}
+
+.p-a {
+    margin-top: 22px;
+}
+
+.img-philosofy {
+    height: 150px;
+    float: left;
+    margin-right: 20px;
+}
+
+.progress {
+    border-radius: 15px;
+    height: 15px;
+    overflow: visible;
+    background: #e2e7eb;
+    box-shadow: none;
+    margin-bottom: 20px;
+    position: relative;
+    
+}
+
+.progress-bar {
+    height: 15px;
+    border-radius: 15px; 
+   
+}
+
+.progress-bar-success {
+    background-color: #00acac;
+}
+
+.progress-number {
+    
+    position: absolute;
+    right:20px;
+    margin-bottom: 5px;
+    bottom: 100%;
+    border-radius: 4px;
+    display: block;
+    padding: 2px 6px 4px;
+    line-height: 16px;
+    background: #333;
+}
+
+
+.skill-name {
+    font-size: 16px;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #242a30;
+}
+
+.info {
+    color: #242a30;
+    font-weight: 600;
+}
+
+small {
+    display: block;
+    color: #999;
+    font-weight: 400;
+}
+
+#member-head-section {
+    background: url(img/gambar4.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-height: 200px;
+ 
+}
+
+.our-theme {
+    text-align: center;
+    padding-top: 60px;
+    min-height:200px;
+    border-right: 1px solid rgba(255,255,255,0.2);
+    border-right-style: dotted;
+   
+}
+.theme-author {
+    text-align: center;
+    padding-top: 60px;
+    min-height:200px;  
+}
+
+.contentAnimated {
+    animation-fill-mode: both;
+}
+
+.number {
+    font-size: 42px;
+    color: #fff;
+    font-weight: 300;
+}
+
+.title  {
+    color: #242a30;
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-weight: 500;
+    text-align: left;
+}
+
+
+
+#our-team-section {
+    background-color: #ffffff;
+    color: #242a30;
+    padding-bottom: 50px;
+}
+
+.img-team {
+    display: inline-block;
+    border-radius: 300px;
+    overflow: hidden;
+    text-align: center;
+    height: 120px
+}
+
+.col-team {
+    text-align: center;
+}
+
+.info-team {
+    color: #00acac;
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.social a{
+    border-radius:300px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    line-height: 28px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;   
+}
+.social a:hover{
+    border-radius:300px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    line-height: 28px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none; 
+    background-color: #242a30;
+}
+
+
+#about-service-section {
+    background-color: #ffffff;
+    color: #242a30;
+}
+
+.service {
+    margin-bottom: 30px;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 32px;
+    float: left;
+    background: #242a30;
+    color: #fff;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.info-service {
+    margin-left: 80px;
+}
+
+.desc {
+    margin: 0 0 10px;
+    color: #707478;
+    
+}
+
+#section-footer {
+    background-color: #242a30;
+}
